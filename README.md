@@ -1,6 +1,6 @@
 <h1 align="center">Web Travel</h1>
 
-<div align="center">
+<div align="center" width="90" height="65">
   <img src="logo (not fixed).jpeg" />
 </div>
 
