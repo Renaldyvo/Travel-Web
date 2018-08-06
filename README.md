@@ -6,7 +6,7 @@
 
 <h2 align="center">PT. LENTERA MENOREH INDONESIA</h2>
 
-#Web Design Reference
+# eb Design Reference
 * http://onesolution.com.hk/en/
 * https://www.onesolutionglobal.org/
 
